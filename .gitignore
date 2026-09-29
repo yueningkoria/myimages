@@ -1,0 +1,12 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.out
+*.ilk
+*.pdb
+
+# 编辑器 / 系统
+.vscode/*.log
+Thumbs.db
+desktop.ini
