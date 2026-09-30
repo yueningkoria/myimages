@@ -11,4 +11,7 @@ int main(){
     printf("%u\n",count1);
     printf("%u",count2);
     return 0;
+    /*输出2147483647
+          2147483648*/
+
 }
