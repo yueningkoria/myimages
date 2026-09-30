@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+    printf("sizeof(int)=%d\n",sizeof(int));
     int min1=0X00000001;
     int max1=0x7fffffff;
     unsigned int count1;
@@ -11,7 +12,7 @@ int main(){
     printf("%u\n",count1);
     printf("%u",count2);
     return 0;
-    /*输出2147483647
-          2147483648*/
+    /*输出2147483647。。。。*/
+
 
 }
