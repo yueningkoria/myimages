@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    printf("sizeof(int)=%d\n",sizeof(int));
+    printf("sizeof(int)=%X\n",sizeof(int));
     int min1=0X00000001;
     int max1=0x7fffffff;
     unsigned int count1;
